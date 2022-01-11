@@ -1,0 +1,194 @@
+
+body {background-color: honeydew;}
+.header {
+    width:99%;
+    height: 300px;
+    background-image: url(../slike_projekat/lamborghini-nawpic2.jpg);
+    background-size: cover;
+   
+}
+.kupiauto {font-size:60px;
+    background-image: linear-gradient(90deg, white, rgb(23, 131, 23));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    vertical-align: middle;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.slika_logo {
+    width:100px;
+    height:100px;
+    float: left;
+}
+.kupiauto {font-size:60px;
+background-image: linear-gradient(90deg, white, rgb(23, 131, 23));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+vertical-align: middle;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.korpa {
+    position:absolute;
+    right:0px;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    background-color: grey;
+    text-align: center;
+    height:40px;
+    padding-top: 20px;
+}
+nav ul li {width:19%;}
+a {
+    text-decoration: none;
+    font-size: large;
+    color:white
+   
+    
+}
+h1 {text-align: center;}
+nav ul li:hover {background-color: wheat;}
+#novi_auto_div {
+    width:99%;
+    text-align: center;
+    height:500px;
+}
+
+div img {margin-right:20px;}
+.novi_slike {
+    height:300px;
+    width:50%;
+    float:left;
+    padding-right:20px;
+}
+p {margin-left:20px;}
+.footer {
+    
+    background-color: black;
+    height: 100px;
+    width:100%;
+    padding-top:50px;
+    color:white;
+    
+    
+
+}
+
+.footer div {
+   width:30%;
+   float:left;
+   text-emphasis: center;
+}
+.mreze ul li {
+    list-style: none;
+    display: inline-block;
+}
+.ikonice{
+    height:40px;
+    width:40px;
+}
+.vreme {
+   
+    right:10px;
+    color:white;
+    text-align: center;
+}
+.ponuda_veliki_div {margin-bottom:100px;}
+.ponuda_veliki_div  {
+    width:99%;
+    height: 1000px;
+}
+
+.ponuda_div{
+    float:left;
+}
+ .ponuda_slike{
+   
+    width:200px;
+    height:150px;
+    display: inline-block;
+}
+.ponuda_text {
+    width:100px;
+    height:150px;
+    display: inline-block;
+}
+.ponuda_slike {
+    height:150px;
+    margin-top:20px;
+    float:left;
+
+}
+.ponuda_text {
+    width:50%;
+    float:left;
+    margin-top:20px;
+}
+.footer.vreme {float:right;}
+div p {float:left}
+
+.search_bar{
+    text-align: right;
+    margin-bottom:20px;
+    height:30px;
+    display: block;
+}
+.search_bar form {
+    display: inline-block;
+}
+.lupa {border:none;
+        background-color: honeydew;}
+        .lupa:hover {
+            background-color: khaki;
+        }
+ #novi_auto_div {
+            margin-bottom:100px;
+        }
+button {
+    background-color: green;
+    border:none;
+    border-radius: 30px;
+    color:white;
+    width:80px;
+    height:30px;
+}
+button:hover {
+    background-color: lawngreen;
+    cursor: pointer;
+}
+.komtakt_div {
+    margin-left: 30%;
+}
+fieldset {
+ margin-left: 30%;
+    height:500px;
+    width:600px;
+}
+fieldset {background-color: ivory;}
+fieldset label{
+    
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+fieldset input {
+ 
+  float: left;
+}
+fieldset input[type="submit"] {
+   margin-left: 40%;
+   border:none;
+   background-color: brown;
+   color: white;
+   border-radius: 30px;
+
+}
+textarea {
+    resize: none;
+}
+.ikonice{
+    height:40px;
+    width:40px;
+}
+
